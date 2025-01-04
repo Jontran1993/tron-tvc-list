@@ -6,33 +6,33 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
+      "address": "TTnDjUCEmMRs13t9rBPCiQXKqHDgSMSP7K",
+      "symbol": "USDT",
+      "name": "TRC20",
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "logoURI": "https://coingecko.com/coins/images/325/large/Tether.png?1696501661",
+      "homepage": "https://coingecko.com",
+      "MarketCapLink": "https://coinmarketcap.com/currencies/tether/",
       "existingMarkets": [
           {
               "source": "Binance",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "USDC/USDT",
+                  "USDT/BUSD",
+                  "USDT/BNB",
+                  "USDT/USDC"
               ]
           },
           {
               "source": "Poloniex",
               "pairs": [
-                  "WIN/USDT"
+                  "USDT/USDC"
               ]
           },
           {
-              "source": "KuCoin",
+              "source": "GIPQ",
               "pairs": [
-                  "WIN/USDT"
+                  "USDT/USDC"
               ]
           }
     ]
