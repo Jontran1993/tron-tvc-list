@@ -30,7 +30,7 @@ Follow the steps below to add a new token：
               ]
           },
           {
-              "source": "GIPQ",
+              "source": "coingecko",
               "pairs": [
                   "USDT/USDC"
               ]
