@@ -3,13 +3,13 @@
     "symbol": "USDT",
     "name": "TRC20",
     "decimals": 6,
-    "logoURI": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
-    "homepage": "https://gipq.us/trades",
+    "logoURI": "https://coingecko.com/coins/images/325/large/Tether.png?1696501661",
+    "homepage": "https://coingecko.com",
     "existingMarkets": [
         {
             "source": "GIPQ",
             "pairs": [
-                "GIPQ 2nd GIPQ/USDT",
+                "GIPQ 2nd USDT/GIPQ",
                 "GIPQ 2nd GIPQ/TRX"
             ]
         }
